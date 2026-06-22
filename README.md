@@ -26,25 +26,11 @@ I am a passionate developer who thrives at the intersection of complex technical
 
 ---
 
-### ⚙️ Languages and Tools
-
-<code><img height="25" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" alt="Go" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="25" alt="C" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="25" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/javascript/javascript.png"></code>
-<code><img height="25" alt="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="25" alt="Lua" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
-<code><img height="25" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="25" alt="Kubernetes" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="25" alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-
----
-
 ### 📫 Let's Connect!
 
 Feel free to reach out if you want to chat about anything at all! Whether it's deep in the world of software or something entirely far from it, I always love exchanging ideas, sharing perspectives, and meeting new people.  
 
-<a href="https://www.linkedin.com/in/morrison-e-graham/">
+<a href="https://www.linkedin.com/in/grahammo/">
   <img align="left" alt="Graham's LinkedIn" width="26px" src="https://github.com/GrahamMo/GrahamMo/blob/main/linkedinlogo.png" />
 </a>
 
