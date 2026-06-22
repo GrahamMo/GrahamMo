@@ -1,44 +1,62 @@
 # Hello World! :wave:
 
-Hi, i'm [Graham Morrison](https://grahammorrison.ca/) and I’m a 3rd-year Software Engineering Student at Mcmaster University. I'm a passionate developer who loves to learn new technologies and take on new challenges. 
+Hi, I'm **Graham Morrison**, a Software Engineering graduate from McMaster University currently working as a **Customer Engineer** at **Switch Growth** in Toronto, Canada. 
 
-Currently I am working as a Systems Architect and Developer at Imperial Lifestyle Management. Outside of work I am doing more coding projects most notably being working on a SaaS startup. I am always looking for mentorship and am looking for Summer 2024 internship opportunities so don't be afraid to reach out!
+I am a passionate developer who thrives at the intersection of complex technical systems, automation, and real-world problem-solving. Whether it's optimizing large-scale robotics algorithms, building robust backend architectures, or designing full-stack solutions, I love taking on complex challenges.
 
-Previous Internships:
-- [Imperial Lifestyle Management](https://imperiallife.ca/)
-- [Canoo](https://www.canoo.com/)
+---
 
-If you'd like to know more about my projects or just me in general, check out my [portfolio](https://www.grahammorrison.ca) or send me a message on [LinkedIn](https://www.linkedin.com/in/morrison-e-graham/)!
+### 💼 Professional Experience
 
-<a href="https://www.grahammorrison.ca">
-  <img align="left" alt="Graham's Website" width="22px" src="https://github.com/GrahamMo/GrahamMo/blob/06b590a5b548e8680112fac66625bed0cc43fe8a/gmicon.png" />
-</a>
-<a href="https://www.linkedin.com/in/morrison-e-graham/">
-  <img align="left" alt="Graham's LinkedIN" width="22px" src="https://github.com/GrahamMo/GrahamMo/blob/main/linkedinlogo.png" />
-</a>
+*   **Customer Engineer** @ [Switch Growth](https://www.switchgrowth.com) (Jun 2026 - Present)  
+    *Bridging engineering and technical strategy to deliver high-impact solutions.*
+*   **Automation and Full Stack Developer** @ Bell (May 2025 - Oct 2025)
+*   **Robotics Software Developer** @ Rapyuta Robotics (May 2024 - Dec 2024)
+*   **Product Manager & Systems Architect** @ Imperial Lifestyle Management (May 2023 - May 2024)
+*   **Full Stack / Back End Developer** @ Canoo (May 2022 - Aug 2022)
 
-<img align="right" alt="GIF" src="https://github.com/GrahamMo/GrahamMo/blob/1427fd38f4fbaffc3394e989294227c613588688/code.gif?raw=true" width="500" height="320" />
+---
 
-<br  />
+### 🧠 Featured Work & Global Experience
 
-### Fun stuff about me
-- I grew up playing hockey and am a leafs fan :maple_leaf:
-- Je parle français :euro:
-- I love board games and activities that make you use your brain! :game_die:
-- I love music. I play a bunch of different instruments and have a lot of music related personal projects. :notes: :musical_keyboard:
+*   **Robotics & Clustering:** Designed a Group-Picking-Clustering algorithm and implemented core validation services for autonomous fleet infrastructure during my time in **Tokyo, Japan**.
+*   **Full-Stack Automation:** Architected and deployed production systems that automated 160+ hours of weekly operations, moving seamlessly from early technical strategy to execution.
+*   **API & Infrastructure Development:** Built resilient Python REST APIs, parallelized heavy data pipelines, and optimized system deployments utilizing modern cloud tools.
+
+---
+
+### ⚡ Fun Stuff About Me
+
+*   **Brain Games:** I love escape rooms, strategic board games, and anything that genuinely challenges the mind! 🎲
+*   **Global & Multilingual:** Je parle français 🇪🇺, I have worked on-site in Tokyo, and I am actively studying Japanese. 🗺️
+*   **Sports:** I grew up playing hockey and am a long-suffering Leafs fan. 🍁
+*   **Music:** I play multiple instruments and love building music-related personal side projects. 🎵
+
+---
 
 ### ⚙️ Languages and Tools
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
+<code><img height="25" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" alt="Go" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="25" alt="C" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="25" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/javascript/javascript.png"></code>
+<code><img height="25" alt="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="25" alt="Lua" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
+<code><img height="25" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="25" alt="Kubernetes" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<code><img height="25" alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
+---
 
+### 📫 Let's Connect!
 
+Feel free to reach out if you want to chat about software architecture, customer engineering, automation, or gaming!
+
+<a href="https://www.linkedin.com/in/morrison-e-graham/">
+  <img align="left" alt="Graham's LinkedIn" width="26px" src="https://github.com/GrahamMo/GrahamMo/blob/main/linkedinlogo.png" />
+</a>
+
+<br />
+<br />
+
+<img align="right" alt="Coding GIF" src="https://github.com/GrahamMo/GrahamMo/blob/1427fd38f4fbaffc3394e989294227c613588688/code.gif?raw=true" width="480" height="300" />
