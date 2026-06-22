@@ -17,19 +17,11 @@ I am a passionate developer who thrives at the intersection of complex technical
 
 ---
 
-### 🧠 Featured Work & Global Experience
-
-*   **Robotics & Clustering:** Designed a Group-Picking-Clustering algorithm and implemented core validation services for autonomous fleet infrastructure during my time in **Tokyo, Japan**.
-*   **Full-Stack Automation:** Architected and deployed production systems that automated 160+ hours of weekly operations, moving seamlessly from early technical strategy to execution.
-*   **API & Infrastructure Development:** Built resilient Python REST APIs, parallelized heavy data pipelines, and optimized system deployments utilizing modern cloud tools.
-
----
-
 ### ⚡ Fun Stuff About Me
 
-*   **Brain Games:** I love escape rooms, strategic board games, and anything that genuinely challenges the mind! 🎲
+*   **Brain Games:** I love board games and activities that make you use your brain! 🎲
 *   **Global & Multilingual:** Je parle français 🇪🇺, I have worked on-site in Tokyo, and I am actively studying Japanese. 🗺️
-*   **Sports:** I grew up playing hockey and am a long-suffering Leafs fan. 🍁
+*   **Sports:** I grew up playing hockey and am a long-suffering Leafs fan. 🍁 :,(
 *   **Music:** I play multiple instruments and love building music-related personal side projects. 🎵
 
 ---
@@ -50,7 +42,7 @@ I am a passionate developer who thrives at the intersection of complex technical
 
 ### 📫 Let's Connect!
 
-Feel free to reach out if you want to chat about software architecture, customer engineering, automation, or gaming!
+Feel free to reach out if you want to chat about anything at all! Whether it's deep in the world of software or something entirely far from it, I always love exchanging ideas, sharing perspectives, and meeting new people.  
 
 <a href="https://www.linkedin.com/in/morrison-e-graham/">
   <img align="left" alt="Graham's LinkedIn" width="26px" src="https://github.com/GrahamMo/GrahamMo/blob/main/linkedinlogo.png" />
